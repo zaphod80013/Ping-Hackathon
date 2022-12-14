@@ -1,4 +1,4 @@
-- # How to Build a BRASS Docker
+- # How To Build a BRASS Docker
 -
 - Sometimes we may want to build a Docker image for consumption in ping-cloud-docker (PCD), manually, in order to test it before the BRASS team can provide us with an official one.
 ## Step-by-step guide
