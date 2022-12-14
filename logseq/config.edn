@@ -297,4 +297,5 @@
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :ui/show-brackets? false
+ :graph/settings {:builtin-pages? false}
  }
