@@ -1,4 +1,5 @@
--
+tag:: [[howto]]
+
 -
 - This page provides a How-To index
 	- [[How To Install k9s]]
