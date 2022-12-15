@@ -1,3 +1,6 @@
+- Affected Releases
+	- [[v1.16.0.0]]
+	- [[v1.17.0.0]]
 - When initially launching a Multi-region Deployment or Upgrading a Single Region Deploy to Multi-region or when scaling up/down a Multi-region [[PingDirectory]] deployment:
 ## Setup Steps:
 - Edit the file found at cluster-state-repo/k8s-configs/base/ping-cloud/descriptor.json file to - add the example data below and edit to match your cde/environment in use.
