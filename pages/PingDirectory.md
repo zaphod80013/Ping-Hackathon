@@ -1,3 +1,6 @@
+- Releases
+	- [[v1.16.0.0]]
+	- [[v1.17.0.0]]
 - Ping's LDAP datasource product
 	- Highly available
 	- Optimized for reads in normal deployment setup.
